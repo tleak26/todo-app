@@ -1,15 +1,17 @@
 add a new player
 Buy grocery
 Take out trash.
-Brush teeth
-Walk the dog.
-Clean the bag
+floss teethWalk the dog.
+Clean the program
 Fix the drawer
 add a new member
-Buy a camera
-Make soup.
+Buy plants.Make soup.
 Make pizza
 Clean the code
 Master Python!
 Refresh screen
 Buy new car.
+Clean dishes.
+My newest todo is added
+Last todo
+And lastly
